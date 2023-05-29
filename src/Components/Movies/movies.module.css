@@ -1,0 +1,17 @@
+.imgScale {
+    height: 22rem;
+    transition: .5s ease;
+}
+
+.imgScale:hover {
+    transform: scale(1.05) rotate(1deg);
+}
+
+.seeMore:hover {
+    cursor: pointer;
+}
+
+.mainCard {
+    height: 35rem;
+    border: 1px solid rgb(0, 47, 255) !important;
+}
